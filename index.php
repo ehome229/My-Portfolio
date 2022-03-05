@@ -38,7 +38,7 @@
         <header class="masthead bg-prim bg-dark pt-13 text-white text-center" id="acceuil">
             <div class="container d-flex align-items-center flex-column  ">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar  w-25 my-0 py-0" src="assets/img/portfolio/nestor1.wp2" id="accueilimg" alt="..." />
+                <img class="masthead-avatar  w-25 my-0 py-0" src="assets/img/portfolio/nestor1.jpg" id="accueilimg" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-subheading ext-uppercase mb-0">I'm  Ir. Nestor Kenoude Amouzoun</h1>
                 <!-- Icon Divider-->

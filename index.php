@@ -53,65 +53,65 @@
             
         </header>
         <!-- Portfolio Section-->
-        <section class="page-section portfolio" id="portfolio">
+
+        <section class="page-section portfolio" id="poject">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">My projects</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">My PROJETS</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                
+                <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
-                   
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            
-                            
-                            
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/y0s7Qvg8I2w" frameborder="0" allowfullscreen></iframe> 
-                        </div>
-                    
+
+                    <div class="col-md-6 col-lg-4 col-12 mb-5">
+
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y0s7Qvg8I2w"></iframe>
+                          </div>
+                                          
+                        
                         <details>Tadagbe is a cohabitation agreement project that allows clients to register online, track their payments online and on the other hand allows the provider to store all clients in a database and manage their payments.
  </details>
-                    </div>
-               
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9xNKEcvy86I" frameborder="0" allowfullscreen></iframe>
-                             
-                        </div>
+</div>
+
+<div class="col-md-6 col-lg-4 col-12 mb-5">
+
+
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9xNKEcvy86I"></iframe>
+      </div>
+    
                         
-                        <details>Covid Filter is an electronic project designed under artificial intelligence to serve maximum protection
+                       
+    <details>Covid Filter is an electronic project designed under artificial intelligence to serve maximum protection
 for the population. This project consists in ensuring the scope of the mask or not by a robot, temperature control and a tunnel of
 disinfection.</details>
-                    </div>
-                  
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/wxZ2k6KV5oE" frameborder="0" allowfullscreen></iframe>
-                              
-                        </div>
+</div>
+
+<div class="col-md-6 col-lg-4 col-12 mb-5">
+
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wxZ2k6KV5oE"></iframe>
+      </div>
+   
                        
-                        <details>Covid Filter is an electronic project designed under artificial intelligence to serve maximum protection
+                       
+    <details>Covid Filter is an electronic project designed under artificial intelligence to serve maximum protection
 for the population. This project consists in ensuring the scope of the mask or not by a robot, temperature control and a tunnel of
 disinfection.</details> 
-                    </div>
-                   
-                <!-- </div>-- -->
+</div>
+
+            
+
+
+
+                  </div>
             </div>
+
         </section>
 
         <section class="page-section portfolio" id="skills">

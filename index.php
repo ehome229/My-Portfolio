@@ -70,7 +70,7 @@
                     <div class="col-md-6 col-lg-4 col-12 mb-5">
 
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe width="345" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/y0s7Qvg8I2w"></iframe>
+                            <iframe width="347" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/y0s7Qvg8I2w"></iframe>
                           </div>
                                           
                         
@@ -82,7 +82,7 @@
 
 
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="345" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/9xNKEcvy86I"></iframe>
+        <iframe width="347" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/9xNKEcvy86I"></iframe>
       </div>
     
                         
@@ -95,7 +95,7 @@ disinfection.</details>
 <div class="col-md-6 col-lg-4 col-12 mb-5">
 
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe width="345" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/wxZ2k6KV5oE"></iframe>
+        <iframe width="347" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/wxZ2k6KV5oE"></iframe>
       </div>
    
                        

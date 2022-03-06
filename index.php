@@ -26,7 +26,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#acceuil">Home</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">My projetc</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">My projects</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#skills">My SKILLS</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
@@ -57,7 +57,7 @@
         <section class="page-section portfolio" id="poject">
             <div class="container">
                 <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">My PROJETS</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">My PROJECTS</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -70,7 +70,7 @@
                     <div class="col-md-6 col-lg-4 col-12 mb-5">
 
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y0s7Qvg8I2w"></iframe>
+                            <iframe width="430" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/y0s7Qvg8I2w"></iframe>
                           </div>
                                           
                         
@@ -82,7 +82,7 @@
 
 
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9xNKEcvy86I"></iframe>
+        <iframe width="430" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/9xNKEcvy86I"></iframe>
       </div>
     
                         
@@ -95,7 +95,7 @@ disinfection.</details>
 <div class="col-md-6 col-lg-4 col-12 mb-5">
 
     <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wxZ2k6KV5oE"></iframe>
+        <iframe width="430" height="250" class="embed-responsive-item" src="https://www.youtube.com/embed/wxZ2k6KV5oE"></iframe>
       </div>
    
                        

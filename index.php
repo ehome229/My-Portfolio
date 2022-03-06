@@ -74,7 +74,7 @@
                             
                             
                             
-                                <iframe width="425" height="349" src="https://www.youtube.com/embed/y0s7Qvg8I2w" frameborder="0" allowfullscreen></iframe> 
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/y0s7Qvg8I2w" frameborder="0" allowfullscreen></iframe> 
                         </div>
                     
                         <details>Tadagbe is a cohabitation agreement project that allows clients to register online, track their payments online and on the other hand allows the provider to store all clients in a database and manage their payments.
@@ -86,7 +86,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <iframe width="425" height="349" src="https://www.youtube.com/embed/9xNKEcvy86I" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/9xNKEcvy86I" frameborder="0" allowfullscreen></iframe>
                              
                         </div>
                         
@@ -101,7 +101,7 @@ disinfection.</details>
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
                             
-                            <iframe width="425" height="349" src="https://www.youtube.com/embed/wxZ2k6KV5oE" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/wxZ2k6KV5oE" frameborder="0" allowfullscreen></iframe>
                               
                         </div>
                        

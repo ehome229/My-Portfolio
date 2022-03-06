@@ -67,7 +67,7 @@
                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
 
-                    <div class="col-md-6 col-lg-4 col-sm-12 mb-5">
+                    <div class="col-md-6 col-lg-4 col-12 mb-5">
 
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y0s7Qvg8I2w"></iframe>
@@ -78,7 +78,7 @@
  </details>
 </div>
 
-<div class="col-md-6 col-lg-4 col-sm-12 mb-5">
+<div class="col-md-6 col-lg-4 col-12 mb-5">
 
 
     <div class="embed-responsive embed-responsive-16by9">
@@ -92,7 +92,7 @@ for the population. This project consists in ensuring the scope of the mask or n
 disinfection.</details>
 </div>
 
-<div class="col-md-6 col-lg-4 col-sm-12 mb-5">
+<div class="col-md-6 col-lg-4 col-12 mb-5">
 
     <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wxZ2k6KV5oE"></iframe>
